@@ -16,7 +16,6 @@ display finished message
 
 name = input("Enter name: ")
 
-# Display menu and get initial choice
 print("(H)ello")
 print("(G)oodbye")
 print("(Q)uit")
@@ -30,7 +29,6 @@ while choice != "Q":
     else:
         print("Invalid choice")
 
-    # Display menu and get choice again inside the loop
     print("(H)ello")
     print("(G)oodbye")
     print("(Q)uit")

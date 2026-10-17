@@ -18,6 +18,5 @@ print("*" * num_stars)
 
 # d.print lines of increasing stars.
 num_lines = int(input("How many lines? "))
-
 for i in range(1, num_lines + 1):
     print("*" * i)

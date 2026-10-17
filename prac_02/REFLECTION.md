@@ -9,7 +9,7 @@ Replace each `...` with your meaningful answer.
 
 ## What time, location and duration have you scheduled to watch lecture videos?
 
-in the evening, at home ,1 daily
+In the evening, at home ,1 daily
 
 ## What are you doing well in the subject so far that you will keep doing?
 
@@ -17,7 +17,7 @@ Referring to previous programming 1 notes and practicals
 
 ## What do you need to stop or change in your work for this subject overall so far?
 
-procrastination
+Procrastination
 
 ## What are you currently doing poorly for practicals in this subject that you will change?
 
@@ -25,4 +25,4 @@ Not doing the extra practice exercises
 
 ## What are you doing really well for practicals in this subject?
 
-referring to previous notes and practicals
+Referring to previous notes and practicals
